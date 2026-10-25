@@ -1,0 +1,28 @@
+MAELSTROM SOFTWARE LICENSE
+Version 2.0 — 2026
+
+Copyright (c) 2026 DonMorpheus. All rights reserved.
+
+This public repository is a product page (documentation and demo images).
+It does not include the Maelstrom teamserver, Qt GUI, mop operator API,
+implants, builders, or modules, and it does not grant a license to them.
+
+A paid annual subscription ("License") grants the named subscriber a
+non-exclusive, non-transferable, revocable right to install and operate
+the Software for:
+
+  • authorized red-team and adversary-simulation engagements
+  • laboratory research on systems the subscriber owns
+  • systems for which the subscriber holds written authorization
+
+One License covers one named operator (or one named team, if the order
+says so) for twelve (12) months from activation.
+
+Possession of this repository, a screenshot, or a binary is not a License.
+
+Contact: GitHub Issues on DonMorpheus/maelstrom-c2
+         morpheusdon5@gmail.com
+
+The Software is provided "AS IS", without warranty of any kind.
+The marketing phrase "full EDR evasion guarantee" describes the UET 2.0
+operator kit for licensed subscribers. It is not a legal warranty.
